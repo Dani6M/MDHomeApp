@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "743279061871",
+    "firebase_url": "https://mdhomeapp.firebaseio.com",
+    "project_id": "mdhomeapp",
+    "storage_bucket": "mdhomeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743279061871:android:d4a1c4ae4cdafc88fe169a",
+        "android_client_info": {
+          "package_name": "com.daliansoft.mdhome_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743279061871-itf5fup53f01b2glf90894j35sdjbais.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALnQvlx9UlyP6BDZFBYIJuvdmT8cqcpsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743279061871-itf5fup53f01b2glf90894j35sdjbais.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
